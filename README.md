@@ -1,4 +1,4 @@
-# Shelter
+# :house_with_garden: Shelter
 
 ## Description
 Shelter (`shelter`) is a command-line tool for downloading & uploading Habitat packages to an S3-compatible bucket. It uses [min.io](min.io)'s Go SDK to connect to a bucket using an access key and secret key.
