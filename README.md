@@ -9,7 +9,9 @@ See `shelter --help` for a commands list, and `shelter <command name> --help` fo
 
 ## Install
 
-To install it, download the [release](https://github.com/gyamada619/shelter/releases) for your platform and add the binary to your `$PATH`. 
+1. Download the [release](https://github.com/gyamada619/shelter/releases) for your platform. 
+2. Make it executable (macOS and Linux): `chmod +x binaryname`
+3. Add the binary to your `$PATH`. 
 
 ## Contribution
 
